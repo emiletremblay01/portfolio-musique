@@ -1,0 +1,151 @@
+{
+  "list": [
+    {
+      "type": "employe",
+      "name": "Technicien de scène, Salle Adrienne-Milotte, Montréal, QC",
+      "description": "Installer l'équipement, mixer le son, répondre aux besoins des artistes",
+      "year": 2019,
+      "startYear": 2017
+    },
+    {
+      "type": "employe",
+      "name": "Technicien de scène, École de l'Anse, Notre-Dame-du-Portage, QC",
+      "description": "Installer l'équipement, mixer le son, répondre aux besoins des artistes",
+      "year": 2018,
+      "startYear": 2016
+    },
+    {
+      "type": "employe",
+      "name": "DJ, Le Loft, Rivière-du-Loup, QC",
+      "description": "Mixer de la musique pour l'ambiance dans le restaurant",
+      "year": 2018,
+      "startYear": 2016
+    },
+    {
+      "type": "employe",
+      "name": "Répétiteur pour l'ensemble Jazz Vocal, ÉMAC, Rivière-du-Loup, QC",
+      "description": "Accompagner la chorale au piano durant les pratiques",
+      "year": 2015,
+      "startYear": 2013
+    },
+    {
+      "type": "contractor",
+      "name": "Musique à l'image: Livres d'Artistes",
+      "description": "Créer de la musique pour la vidéo promotionnelle d'une exposition",
+      "year": 2019,
+      "hyperlink": "https://youtu.be/wAJ95dwyzjc?t=44"
+    },
+    {
+      "type": "contractor",
+      "name": "Mixage audio: The Four",
+      "description": "Mixer l'enregistrement d'un single de l'artiste Rose Adam",
+      "year": 2022
+    },
+    {
+      "type": "contractor",
+      "name": "Mixage audio: Sunflower",
+      "description": "Mixer l'enregistrement d'un single de l'artiste Mojarke",
+      "year": 2019
+    },
+    {
+      "type": "contractor",
+      "name": "Musique à l'image: In Loving Memory",
+      "description": "Créer de la musique pour un court-métrage",
+      "year": 2018,
+      "hyperlink": "https://www.youtube.com/watch?v=_eXK9gLwRJE"
+    },
+    {
+      "type": "contractor",
+      "name": "Production musicale: On Est Loisir",
+      "description": "Production et arrangement complet de la chanson pour le Cégep de Rivière-du-Loup",
+      "year": 2021,
+      "hyperlink": "https://www.youtube.com/watch?v=vNMUY8s-gsw"
+    },
+    {
+      "type": "contractor",
+      "name": "Arrangement: St-Laurent",
+      "description": "Créer un arrangement de flûtes pour une chanson du groupe Chassepareil",
+      "year": 2018
+    },
+    {
+      "type": "contractor",
+      "name": "Arrangement: Trio Temps Libre",
+      "description": "Créer des arrangements et des backing tracks pour divers projets du trio jazz",
+      "startYear": 2018,
+      "year": 2023
+    },
+    {
+      "type": "contractor",
+      "name": "Interprète piano jazz ",
+      "description": "Etre le pianiste d'un trio pour des concerts de jazz dans des maisons de retraite",
+      "year": 2018
+    },
+    {
+      "type": "contractor",
+      "name": "DJ",
+      "description": "DJ pour différents événements (ambiance soirée, party corporatif, après-bal, spectacles etc.)",
+      "year": 2018,
+      "startYear": 2014,
+      "hyperlink": "https://www.rumeurduloup.com/entrevue-avec-emile-tremblay-lunivers-de-ledm/"
+    },
+    {
+      "type": "contractor",
+      "name": "Mixage audio et vidéo: Concert synthèse",
+      "description": "Mixer l'enregistrement et monter la vidéo du concert des finissants en musique du Cégep St-Laurent",
+      "year": 2019
+    },
+    {
+      "type": "award",
+      "name": "Prix Studio Jupiter",
+      "description": "Cégep en spectale",
+      "year": 2018,
+      "hyperlink": "https://www.cegepsl.qc.ca/nouvelles/cegeps-en-spectacle-emile-tremblay-remporte-le-prix-studio-jupiter/"
+    },
+    {
+      "type": "award",
+      "name": "Gagnant finale locale",
+      "description": "Cégep en spectale",
+      "year": 2017
+    },
+    {
+      "type": "award",
+      "name": "Gagnant finale locale + prix du public",
+      "description": "Cégep en spectale",
+      "year": 2015,
+      "hyperlink": "https://www.infodimanche.com/actualites/culturel/281464/emile-tremblay-remporte-la-finale-locale-de-cegeps-en-spectacle"
+    },
+    {
+      "type": "award",
+      "name": "Gagnant finale locale",
+      "description": "Secondaire en spectacle",
+      "year": 2014
+    },
+    {
+      "type": "award",
+      "name": "Médaillé d'or: compétition de piano classique",
+      "description": "Gagnant de multiples médailles d'or et de prix dans divers concours de piano classique",
+      "year": 2016,
+      "startYear": 2005
+    },
+    {
+      "type": "formation",
+      "name": "Techniques Professionnelles Musique et Chanson, profil Composition (instrument principal: piano jazz)",
+      "description": "Cégep St-Laurent",
+      "year": 2019,
+      "startYear": 2016
+    },
+    {
+      "type": "formation",
+      "name": "Formation de technicien de scène",
+      "description": "Camp musical de St-Alexandre",
+      "year": 2014
+    },
+    {
+      "type": "formation",
+      "name": "Formation en piano classique",
+      "description": "École de piano Legato, Rivière-du-Loup",
+      "year": 2016,
+      "startYear": 2003
+    }
+  ]
+}
